@@ -1,6 +1,6 @@
 # _Zach's Speciality Foods_
 
-#### _Mock Grocery Store, 6.30.2017_
+#### _Mock Grocery Store, 7.7.2017_
 
 #### By _**Zach Beecher**_
 
@@ -53,7 +53,7 @@ Allow users to add products/services to a shopping cart, and go through a "check
 ## Setup/Installation Requirements
 _You will need Ruby/Rails and postgres to run this app locally._
 
-* _Clone this repository from https://github.com/ziggity/week2_rails.git :)_
+* _Clone this repository from https://github.com/ziggity/rails_week2 :)_
 * _Run the command_
 `bundle install`
 * _Use mac command or windows cntrl t to open a second terminal window, in that window run the command_
