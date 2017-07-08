@@ -50,6 +50,18 @@ Use CanCanCan to manage authorizing Administrator accounts.
 Implement ActiveAdmin to create an administrator dashboard.
 Allow users to add products/services to a shopping cart, and go through a "checkout" process to receive a total and a receipt. (We will be adding a shopping cart to applications next week.)
 
+## Planning
+
+- Company requires admin and basic user accounts.
+- Basic users leave reviews on products.
+- Admins can add edit, add, delete products, and delete user reviews.
+- Awesome landing page - welcome message
+- Nav bar for users to make their way around the site / login page
+- Products page - view all products.
+- Admin can add new product
+- Each product includes name, desc, and price.
+- Detail page - Click on each product to view it. Include image on product. Auth basic users have an option to leave comment on product. Admins can edit delete product etc, and remove comment.
+
 ## Setup/Installation Requirements
 _You will need Ruby/Rails and postgres to run this app locally._
 
