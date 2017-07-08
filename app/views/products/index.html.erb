@@ -1,0 +1,16 @@
+<%= render "layouts/navbar" %>
+<%= render "layouts/header" %>
+<div>
+  <div class="container">
+    <div class="row">
+      <% @products.each do |product|  %>
+        <div>
+          <%= link_to product do %>
+            <%= image_tag product.image.url(:medium) %>
+              <p><%= product.name %></p>
+          <% end %>
+        </div>
+      <% end %>
+    </div>
+  </div>
+</div>
